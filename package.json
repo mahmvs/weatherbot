@@ -1,0 +1,25 @@
+{
+  "name": "weatherbot",
+  "version": "1.0.0",
+  "description": "projetonode",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmvs/weatherbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahmvs/weatherbot/issues"
+  },
+  "homepage": "https://github.com/mahmvs/weatherbot#readme",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.2",
+    "node-fetch": "^3.3.2"
+  }
+}
